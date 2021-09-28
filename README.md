@@ -1,14 +1,13 @@
-GSHS Coder
----
-- Profile
+# GSHS Coder
+### [ Profile ]
 
   Name : Yohan Roh
   
   BOJ Id : yohanroh
   
   Solved.ac Account : https://solved.ac/profile/yohanroh
-  
-- Postings
+  ___
+###  [ Postings ]
   
   C/C++
   
@@ -25,5 +24,6 @@ GSHS Coder
   SOLIDITY
   
   PYTHON
+  ___
   
   
