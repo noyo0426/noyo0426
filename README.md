@@ -1,6 +1,25 @@
-   C/C++ CODER
+GSHS Coder
 ---
-- Name : Yohan Toh
-- Solved.ac Id : yohanroh
-- Aiming to learn JAVA, GO
-- future postings : Prbolem Solving, Solidity, GO, JAVA, Android app programming
+- Profile
+
+  Name : Yohan Roh
+  
+  BOJ Id : yohanroh
+  
+  Solved.ac Account : https://solved.ac/profile/yohanroh
+  
+- Postings
+  
+  Problem Solving
+  
+  JAVA
+  
+  GO
+  
+  Android App Programming
+  
+  SOLIDITY
+  
+  PYTHON
+  
+  
