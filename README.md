@@ -10,9 +10,13 @@ GSHS Coder
   
 - Postings
   
+  C/C++
+  
   Problem Solving
   
   JAVA
+  
+  C#
   
   GO
   
