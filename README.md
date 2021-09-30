@@ -24,6 +24,5 @@
   SOLIDITY
   
   PYTHON
-  ___
   
   
